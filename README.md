@@ -18,6 +18,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=101010)]()
 </br>
 [![Django](https://img.shields.io/badge/Django-339933?style=flat&logo=django&logoColor=white&labelColor=101010)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-343434?style=flat&logo=fastapi&logoColor=white&labelColor=101010)]()
 [![Flask](https://img.shields.io/badge/Flask-343434?style=flat&logo=flask&logoColor=white&labelColor=101010)]()
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&labelColor=101010)]()
 [![Express](https://img.shields.io/badge/Express-343434?style=flat&logo=express&logoColor=white&labelColor=101010)]()
