@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a Full Stack Developer with a passion for clean code and intuitive UI/UX. I look beyond the initial tickets to anticipate scalability bottlenecks and product growth. Experienced in delivering solid backend solutions while maintaining a high standard for frontend user experience. Ready to adapt and add value to any multilingual tech team.
 
 ## Skills:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=101010)]()
